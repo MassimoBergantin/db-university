@@ -38,6 +38,6 @@ SELECT * FROM `teachers` WHERE `name` LIKE '%F%'
 
 10_Calcola la media d'età di tutti gli studenti
 SELECT AVG(`date_of_birth`) FROM `students`
-// probabilmente sbagliato //
+// errato(!?) //
 
 
